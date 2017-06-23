@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="cursorInvisible">#ffffff</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorStepRecord">#CCCCCC</color>
+    <color name="colorOfDiaryTitle">#E0FFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#CFCFCF</color>
+</resources>
